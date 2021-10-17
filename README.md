@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @https://github.com/mnm-bit/mnm-bit
+- 👋 Hi, I’m @https://github.com/mnm-bit/mnm-bit 
+- I'm starting with all those things
